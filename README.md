@@ -1,7 +1,8 @@
 # Hi there 👋 I'm Lim Yong Kang
 
 🎓 Final-year **Computer Engineering** student at **Nanyang Technological University (NTU)**
-📍 Based in **Singapore** | 🌐 Passionate about **AI, Full-Stack Development, and Intelligent Systems**  
+📍 Based in **Singapore** 
+🌐 Passionate about **AI, Full-Stack Development, and Intelligent Systems**  
 🔧 Certified **AWS Solutions Architect – Associate** | 🤖 Building AI agents & automation tools  
 
 ---
@@ -56,4 +57,4 @@ I'm passionate about **building intelligent applications** that bridge technolog
 
 - **AWS Certified Solutions Architect – Associate** (SAA-C03)  
 - **Google AI Essentials** – Coursera
-- **Google UX Specialisation** (SAA-C03)  - Coursera
+- **Google UX Specialisation**  - Coursera
