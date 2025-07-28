@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Lim Yong Kang
+# Hi there 👋 I'm Yong Kang
 
 🎓 Final-year **Computer Engineering** student at **Nanyang Technological University (NTU)**
 📍 Based in **Singapore** 
